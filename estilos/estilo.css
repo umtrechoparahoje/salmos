@@ -1,0 +1,18 @@
+¨* {margin:0; padding:0;}
+body {
+    background-image: linear-gradient(to right, rgb(22, 22, 22), black);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size:30px;
+    text-align:justify;
+    font-variant:small-caps;
+}
+body div {
+    width:80%;
+    height:auto;
+    margin:auto;
+    opacity:80%;
+}
+body div:hover {
+    opacity:100%;
+}
